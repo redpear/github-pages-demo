@@ -1,1 +1,1 @@
-helllo bar
+helllo barconsole.log('bar')
